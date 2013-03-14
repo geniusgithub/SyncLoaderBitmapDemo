@@ -14,6 +14,7 @@ import android.widget.ListView;
  * @author lance
  * @csdn  http://blog.csdn.net/geniuseoe2012
  * @github https://github.com/geniusgithub
+ * @QQgroupID 298044305
  */
 public class MainActivity extends Activity {
 
